@@ -12,9 +12,7 @@ and the application returns generated flavor text to help with vivid RP descript
 # Credit
 
 This project is currently translated into nodejs from the following:
-  - http://www.screwytruths.com/Quor.html
-  - http://www.screwytruths.com/Elven.html
-  - http://www.screwytruths.com/Goblin.html
+  - http://www.screwytruths.com/
 
 We do not know precisely who the original translator or developer are only their names:
   - translator, Skye "Masterful Norg" Freeman
