@@ -1,0 +1,13 @@
+{
+  "name": "spell_language_generator",
+  "version": "0.0.1",
+  "description": "generating a spoken spell in a fantasy language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -L index.js"
+  },
+  "author": "sirslaw",
+  "license": "ISC",
+  "dependencies": {}
+}
